@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+.titele-El{
+    text-decoration: none;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 150;
+    color: rgb(41, 109, 5);
+}
+.link-El{
+    text-decoration: none;
+    font-size: medium;
+}
+.discription-El{
+    overflow-x: auto;
+}
+.main-image{
+   display: block;
+    height: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    
+}
+.btn{
+    display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3px 15px; 
+  text-align: center;
+  font-size: 15px;
+  background: #37d214;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+  }
+.inputdiv{
+    text-align: center;
+
+}
+#input{
+    border-radius: 5px;
+    height: 30px;
+    border-style: solid;
+    border-color: #37d214;
+    border-width: 3px;
+}
+.view{
+    height: fit-content;
+   
+    
+}
